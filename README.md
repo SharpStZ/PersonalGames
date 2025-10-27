@@ -29,4 +29,4 @@ It will have:
 --> Most routes will explore the same world and areas, so they're not completely different games, just different events, relationships, etc.
 
 Of course, this is a LOT to digest, and it's fairly vague as I don't want to reveal the theming of the game itself. 
-I'm a bit lazy, can admit, but I really do want to make something people will enjoy a lot.
+Though I do tend to get distracted, I really do want to make something people will enjoy a lot.
