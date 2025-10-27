@@ -9,28 +9,28 @@ The only test project I decided to upload was the "2D WorldGen attempt" project,
 // GAME CONTROLS //
 
 Prompt Quest:
-  Arrow keys - movement;
-  Z - interact;
+  * Arrow keys - movement;
+  * Z - interact;
 
 Cat Platformer:
-  Arrow keys - movement;
-  Z - dash;
+  * Arrow keys - movement;
+  * Z - dash;
 
 _TALE:
-  Arrow keys - movement;
-  Z - interact;
-  C - menu;
-  Delete - resets save file;
+  * Arrow keys - movement;
+  * Z - interact;
+  * C - menu;
+  * Delete - resets save file;
 
 BrimHorn Battle System:
-  Arrow keys - navigate battle GUI;
-  Z - select;
+  * Arrow keys - navigate battle GUI;
+  * Z - select;
 
 2D WorldGen Attempt:
-  Arrow keys - movement;
-  Left-click - break block;
-  F1 - Re-generate map;
-  F3 - Show mouse-hover block data;
+  * Arrow keys - movement;
+  * Left-click - break block;
+  * F1 - Re-generate map;
+  * F3 - Show mouse-hover block data;
 
 // BRIMHORN'S FUTURE //
 
